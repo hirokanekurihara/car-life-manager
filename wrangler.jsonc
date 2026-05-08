@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "car-life-manager",
+  "compatibility_date": "2026-05-08",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "code_sandbox_light_b1da0d8f_1778254337"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
